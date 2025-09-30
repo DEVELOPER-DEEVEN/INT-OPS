@@ -34,7 +34,7 @@ export const baseOptions: BaseLayoutProps = {
           className="hidden dark:block"
           alt="Logo"
         />
-        Cua Documentation
+        L Documentation
       </>
     ),
   },
@@ -42,14 +42,14 @@ export const baseOptions: BaseLayoutProps = {
   links: [
     {
       url: 'https://trycua.com',
-      text: 'cua home',
+      text: 'L home',
       type: 'icon',
       icon: <HomeIcon />,
       external: false,
     },
     {
       url: 'https://discord.com/invite/mVnXXpdE85',
-      text: 'cua discord',
+      text: 'L discord',
       type: 'icon',
       icon: (
         <>
